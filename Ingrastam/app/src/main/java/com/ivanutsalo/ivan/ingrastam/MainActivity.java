@@ -118,7 +118,7 @@ public class MainActivity extends Activity implements ScrollViewListener{
 
         //Add the TableRow to the TableLayout
         tableInstagram.addView(tableRow);
-        tableInstagram.addView(tableRow, 0);
+        // tableInstagram.addView(tableRow, 0);
 
     }
 
