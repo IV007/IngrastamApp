@@ -1,7 +1,7 @@
 package com.ivanutsalo.ivan.ingrastam;
 
 /**
- * Created by Ivan on 2/24/2015.
+ * Created by Ivan on 3/2/2015.
  */
 public interface ScrollViewListener {
 
