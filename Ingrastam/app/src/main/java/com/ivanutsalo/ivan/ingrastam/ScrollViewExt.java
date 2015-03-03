@@ -1,7 +1,7 @@
 package com.ivanutsalo.ivan.ingrastam;
 
 /**
- * Created by Ivan on 3/3/2015.
+ * Created by Ivan on 3/2/2015.
  */
 
 import android.content.Context;
